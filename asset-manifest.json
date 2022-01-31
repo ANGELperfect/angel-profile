@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/angel-profile/static/css/main.c9fdbd9a.css",
+    "main.js": "/angel-profile/static/js/main.c341188c.js",
+    "static/js/787.1d3c925b.chunk.js": "/angel-profile/static/js/787.1d3c925b.chunk.js",
+    "index.html": "/angel-profile/index.html",
+    "main.c9fdbd9a.css.map": "/angel-profile/static/css/main.c9fdbd9a.css.map",
+    "main.c341188c.js.map": "/angel-profile/static/js/main.c341188c.js.map",
+    "787.1d3c925b.chunk.js.map": "/angel-profile/static/js/787.1d3c925b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9fdbd9a.css",
+    "static/js/main.c341188c.js"
+  ]
+}
